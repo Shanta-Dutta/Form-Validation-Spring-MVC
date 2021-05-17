@@ -1,0 +1,27 @@
+h4{
+
+color: #000080;
+
+}
+
+button{
+background-color: #008CBA;
+}
+
+input{
+
+    padding:5px;
+    border:2px solid #ccc;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+
+}
+
+body{
+background-color:#FFA07A
+}
+
+body1{
+
+background-color:#F08080
+}
